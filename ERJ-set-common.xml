@@ -95,6 +95,10 @@
 				<path>Aircraft/E-jet-family/Systems/ERJ-trs.xml</path>
 			</autopilot>
 			<autopilot>
+				<name>FADECs</name>
+				<path>Aircraft/E-jet-family/Systems/fadec.xml</path>
+			</autopilot>
+			<autopilot>
 				<name>FMS managed speed</name>
 				<path>Aircraft/E-jet-family/Systems/fms-speed.xml</path>
 			</autopilot>

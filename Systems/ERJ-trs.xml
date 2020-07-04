@@ -443,7 +443,10 @@
 		</condition>
 		<property>/trs/thrust/con</property>
 	</input>
-	<output>/it-autoflight/settings/autothrottle-max</output>
+	<output>
+        <property>/fadec/thrust-max</property>
+        <property>/it-autoflight/settings/autothrottle-max</property>
+    </output>
 </filter>
 
 </PropertyList>
